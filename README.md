@@ -3,7 +3,7 @@ Javascript - Bootstrap
 
 # App Cifrado_Cesar
 App Básica Creada con Bootstrap y JavaScript
-* Función de Cifradoa
+* Función de Cifrado
 * Función de Desifrado
 
 ## Enlace
